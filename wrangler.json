@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "royal-rain-622e",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "70c6a3df-442f-44ad-bd6e-f97c548cea3d",
+      "database_name": "royal-rain-622e-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
